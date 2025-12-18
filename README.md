@@ -124,5 +124,4 @@ IoT devices for smart farming
 
 ---
 
-Would you like me to generate an **“Abstract + Objective + Conclusion”** section in Word-style format too (for your report or README bottom)?
 
